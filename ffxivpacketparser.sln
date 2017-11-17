@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ffxivpacketparser", "ffxivpacketparser\ffxivpacketparser.csproj", "{11024C2C-96DD-4B23-91B1-77D59AD6731A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11024C2C-96DD-4B23-91B1-77D59AD6731A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11024C2C-96DD-4B23-91B1-77D59AD6731A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11024C2C-96DD-4B23-91B1-77D59AD6731A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11024C2C-96DD-4B23-91B1-77D59AD6731A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFDD35B2-A738-4813-8DB2-D4EBBB3772C1}
+	EndGlobalSection
+EndGlobal
